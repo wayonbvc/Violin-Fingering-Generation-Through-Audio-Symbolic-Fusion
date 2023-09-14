@@ -3,7 +3,7 @@
 ## YTVF Dataset
 The dataset consists of 30 different performance recordings which can be viewed on YouTube. The fingerings are manually annotated by carefully watching the video and identifying the fingers visually. The annotations specify the performance attributes of each note, including pitch, bar, metrical onset (start), duration, string, hand position, finger choice, bowing, and whether the note is harmonic.
 
-The 30 violin pieces and their YouTube links are:
+The 30 violin pieces and their YouTube links are as follows:
 
 | Song Name   | Composer | Performer | YouTube Link |
 | ----------- | ----------- | ----------- |----------- |
