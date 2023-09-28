@@ -1,5 +1,7 @@
 # Violin-Fingering-Generation-Through-Audio-Symbolic-Fusion
 
+We introduced a novel violin fingering generation model that incorporates both audio and symbolic data, allowing users to input music scores and their corresponding violinist recordings to obtain personalized fingerings. A new violin dataset collected from YouTube with manual fingering annotations is also proposed.
+
 ## YTVF Dataset
 The dataset consists of 30 different performance recordings which can be viewed on YouTube. The fingerings are manually annotated by carefully watching the video and identifying the fingers visually. The annotations specify the performance attributes of each note, including pitch, bar, metrical onset (start), duration, string, hand position, finger choice, bowing, and whether the note is harmonic.
 
