@@ -1,3 +1,7 @@
+## Audio-Symbolic Violin Fingering Generation Model
+The model contains three modules: an audio embedder, a symbolic embedder, and a classifier. The classifier consists of Bi-directional Long Short-Term Memory Network (BLSTM), with a softmax layer to predict the combination of strings, positions, and fingers.
+
+## Download Audio Features 
 Audio features could be download via these links:
 
 TNUA dataset: https://drive.google.com/drive/folders/18LOqCe0zvscR31cGV5RqIu-OhVUmi2Hy?usp=sharing
@@ -5,6 +9,8 @@ TNUA dataset: https://drive.google.com/drive/folders/18LOqCe0zvscR31cGV5RqIu-OhV
 YTVF dataset: https://drive.google.com/drive/folders/1cdwPsMCURCcAFn6bdjaJctwkGYAIAPu-?usp=sharing
 
 The audio features should be put in the folder **TNUA_datset/audio** and **YTVF_dataset/audio**
+
+## Implementation
 
 **train.py** can be implememted directly after downloading the above audio features.
 
