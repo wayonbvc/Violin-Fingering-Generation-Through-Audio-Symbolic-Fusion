@@ -4,6 +4,8 @@ TNUA dataset: https://drive.google.com/drive/folders/18LOqCe0zvscR31cGV5RqIu-OhV
 
 YTVF dataset: https://drive.google.com/drive/folders/1cdwPsMCURCcAFn6bdjaJctwkGYAIAPu-?usp=sharing
 
+The audio features should be put in the folder **TNUA_datset/audio** and **YTVF_dataset/audio**
+
 **train.py** can be implememted directly after downloading the above audio features.
 
 **generate_audio_feature.py** provides an example to extract audio features from an audio recording.
